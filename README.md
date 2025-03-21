@@ -8,7 +8,7 @@ The MP3 files in this repository are a collection of narrations created with an 
 
 ## Contents
 
-- **MP3 Files**: All audio files are organized and labeled according to the narrated event.
+**MP3 Files**: All audio files are organized and labeled according to the narrated event.
 
 ## License
 
